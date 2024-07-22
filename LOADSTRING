@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("wait", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/erchobrg/Burgerware/main/BURGERWARE.lua", true))()
